@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align"center" alt="leo-SQL" height="40" width="40" src="https://camo.githubusercontent.com/68edd048c41c17c8479b079bf0344f488e561241c629e3503e81f94fbbcb63c9/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f666c61742d70726f2d64617461626173652d7365742d312f33322f73716c2d62616467652d313032342e706e67">
 </div>
 
-##
+
 
 <div>
   <a href = "mailto:leonardosiqueira132@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
