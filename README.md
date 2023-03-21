@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align"center" alt="leo-SQL" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+  <img align"center" alt="leo-SQL" height="20" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
   <img align="right" alt="leo-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
