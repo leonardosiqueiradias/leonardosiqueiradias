@@ -1,4 +1,4 @@
-### Olá pessoal! Seja bem-vindo ao meu perfil!
+### Olá! Seja bem-vindo ao meu perfil!
 
 <!--
 **leonardosiqueiradias/leonardosiqueiradias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
