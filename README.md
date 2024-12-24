@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 🔭 Estagiando na empresa júnior Ânimo Consultoria.
-- 🌱 Estudando análise de dados.
+- 🌱 Estudando Desenvolvimento Backend com Python.
 
 <!--
 - 👯 I’m looking to collaborate on ...
