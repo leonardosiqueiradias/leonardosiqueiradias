@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo ao meu perfil!
+# Olá! Meu nome é Leonardo
 
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 🔭 Estagiando na empresa júnior Ânimo Consultoria.
