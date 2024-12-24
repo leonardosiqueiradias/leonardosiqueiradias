@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Minhas Habilidades
+### 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
   <img align="center" alt="leo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
