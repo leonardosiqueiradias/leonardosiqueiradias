@@ -1,7 +1,7 @@
 # Olá! Meu nome é Leonardo
 
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
-- 🔭 Estagiando na empresa júnior Ânimo Consultoria.
+- 🔭 Estagiário de T.I na americanas s.a.
 - 🌱 Estudando Desenvolvimento Backend com Python.
 
 <!--
