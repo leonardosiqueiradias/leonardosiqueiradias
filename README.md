@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 💼 Estagiário de T.I na americanas s.a.
-- 🌱 Estudando Desenvolvimento Backend com Python, utilizando os frameworks Django e Flask.
+- 🌱 Estudando Desenvolvimento Backend no Python, e utilizando os frameworks Django e Flask.
 
 <!--
 - 👯 I’m looking to collaborate on ...
