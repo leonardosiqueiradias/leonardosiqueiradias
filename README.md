@@ -1,7 +1,7 @@
 # Olá! Meu nome é Leonardo
 
-- 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 💼 Desenvolvedor Backend na americanas s.a.
+- 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 🌱 Estudando Desenvolvimento Backend com Python.
 
 # 💻 Tech Stack:
